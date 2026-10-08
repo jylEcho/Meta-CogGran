@@ -2,7 +2,6 @@
 
 Meta-CogGran is a multimodal research codebase for studying **cognitive granularity and memory-guided visual reasoning**. It builds on visual-language model training with semantic memory banks and adds spatial memory components and configurable multi-step Meta-Cog control. The repository contains a range of model, bank, and training variants, along with data processing and evaluation utilities.
 
-> The repository is an evolving research workspace. Script names and parameters identify specific experiments; they do not imply that all variants share a single configuration or checkpoint format.
 
 ## Method at a Glance
 
